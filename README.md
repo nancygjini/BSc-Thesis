@@ -14,4 +14,3 @@ when allowing both symmetric and asymmetric GARCH effects, especially EGARCH, wh
 commonly present in asset pricing models such as Fama-French, suggesting the case of underrejection
 in the empirical application. Coming into such problematic conclusions on residual
 diagnostics can be prevented by first testing for (asymmetric) GARCH effects in the residuals.
-1
