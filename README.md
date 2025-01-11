@@ -1,4 +1,4 @@
-# BSc-Thesis in Econometrics and Economics
+# Bachelor's Thesis in Econometrics and Economics
 
 ## Asymmetric GARCH effects and residualdiagnostics: A finite-sample testing approach for multivariate linear models
 
