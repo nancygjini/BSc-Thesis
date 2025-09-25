@@ -1,6 +1,6 @@
 # Bachelor's Thesis in Econometrics and Economics
 
-## Asymmetric GARCH effects and residualdiagnostics: A finite-sample testing approach for multivariate linear models
+## Asymmetric GARCH effects and residual diagnostics: A finite-sample testing approach for multivariate linear models
 
 This paper investigates the finite-sample residual-based tests for ARCH effects and serial dependency
 designed by Dufour, Khalaf, and Beaulieu (2010), through an application to the Fama-
